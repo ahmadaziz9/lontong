@@ -1,0 +1,6 @@
+def main():
+    nama = input("Masukkan nama Anda: ")  # Meminta pengguna untuk memasukkan namanya
+    print("Halo, " + nama + "! Selamat datang di program sederhana ini.")  # Menampilkan pesan sapaan
+
+if __name__ == "__main__":
+    main()
